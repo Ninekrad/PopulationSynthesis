@@ -1,5 +1,5 @@
 # PopulationSynthesis
-DGM frameworks for population synthesis
+Code for the paper "GENERATING POPULATION SYNTHESIS USING A DIFFUSION MODEL"
 
 Requirements
 1. https://github.com/stasmix/popsynth - pop-synth-vae.ipynb
